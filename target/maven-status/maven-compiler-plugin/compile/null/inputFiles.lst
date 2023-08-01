@@ -1,0 +1,5 @@
+/home/sdrogou/Developpement/rabbitmq-client/src/main/java/com/ve/GreetingResource.java
+/home/sdrogou/Developpement/rabbitmq-client/src/main/java/com/ve/domain/Metier.java
+/home/sdrogou/Developpement/rabbitmq-client/src/main/java/com/ve/endpoint/HelloEndPoint.java
+/home/sdrogou/Developpement/rabbitmq-client/src/main/java/com/ve/endpoint/MsgEndPoint.java
+/home/sdrogou/Developpement/rabbitmq-client/src/main/java/com/ve/bus/RabbitMQConnexion.java
